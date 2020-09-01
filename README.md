@@ -1,8 +1,8 @@
-﻿# NickBuhro.NumToWords
+﻿# NumToWords.netStandard
 
 C# library for converting numbers to words.
 
-The current version of the library is also [available on NuGet](https://www.nuget.org/packages/NickBuhro.NumToWords).
+The current version of the library is also [available on NuGet](https://www.nuget.org/packages/NumToWords.Standard).
 
 ## Features
 
@@ -51,12 +51,4 @@ Console.WriteLine(
 
 ## Compatibility
 
-The library uses no references except for `System` - it has no external dependencies.
-It is cross compiled to:
-
-* .NET Framework 2.0 
-* .NET Framework 3.5 Client Profile
-* .NET Framework 4.0 Client Profile
-* .NET Framework 4.5
-* .NET Platform 5.4
-
+.NET Stanrdard 2.0 
