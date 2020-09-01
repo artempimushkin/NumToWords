@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace NickBuhro.NumToWords.Russian
+namespace NumToWords.Standard.Russian
 {
     /// <summary>
     /// Convert numbers to russian words.

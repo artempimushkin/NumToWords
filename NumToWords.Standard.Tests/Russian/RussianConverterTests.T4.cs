@@ -9,7 +9,7 @@
 //     the code is regenerated.
 // </auto-generated>
 // ------------------------------------------------------------------------------
-namespace NickBuhro.NumToWords.Tests.Russian
+namespace NumToWords.Standard.Tests.Russian
 {
 	partial class RussianConverterTests
 	{

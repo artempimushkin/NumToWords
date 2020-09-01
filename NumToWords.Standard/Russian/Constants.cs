@@ -1,4 +1,4 @@
-﻿namespace NickBuhro.NumToWords.Russian
+﻿namespace NumToWords.Standard.Russian
 {
     /// <summary>
     /// Constant definitions for the formatting algorithm.

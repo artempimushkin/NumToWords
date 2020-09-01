@@ -1,7 +1,7 @@
-﻿using NickBuhro.NumToWords.Russian;
+﻿using NumToWords.Standard.Russian;
 using Xunit;
 
-namespace NickBuhro.NumToWords.Tests.Russian
+namespace NumToWords.Standard.Tests.Russian
 {
     public sealed partial class RussianConverterTests
     {

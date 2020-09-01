@@ -1,4 +1,4 @@
-﻿namespace NickBuhro.NumToWords.Russian
+﻿namespace NumToWords.Standard.Russian
 {
     /// <summary>
     /// Represents noun gender in Russian language.

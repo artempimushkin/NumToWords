@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Text;
 
-namespace NickBuhro.NumToWords.Russian
+namespace NumToWords.Standard.Russian
 {
     /// <summary>
     /// Implementation of logic for formatting number to words.
